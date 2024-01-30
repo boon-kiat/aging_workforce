@@ -1,4 +1,4 @@
-## Identifications and Solutions for the Aging Workforce in Malaysia using R
+## Identifications and Solutions for the Aging Workforce in Malaysia
 
 ### Module:
 WQD7004 Programming for Data Science 
@@ -11,6 +11,9 @@ WQD7004 Programming for Data Science
 | Low Boon Kiat | 17138399 |
 | Hongsheng Jie | 22064728 |
 | Yuejing Huang | S2158553 |
+
+### Programming Language:
+- R
 
 ### RPubs: 
 [Identifications and Solutions for the Aging Workforce in Malaysia](https://rpubs.com/jhwong97/MYagingworkforce)
